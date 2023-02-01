@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+.titulo{
+    padding-left: 38%;
+    border: 1px black solid;
+    background-color: #37ff33;
+}
+
+.indice{
+    background-color: yellow;
+    border: 1px black solid;
+    display: inline-block;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
+
+.parrafos{
+    padding-right: 1%;
+    padding-left: 1%;
+    margin-top: 5%;
+    text-align: justify;
+}
+
+.enlaces{
+    margin-top: 6%;
+    padding-left: 45%;
+    border: 1px black solid;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #37ff33;
+    padding-top: 0.7%;
+    padding-bottom: 0.7%;
+}
