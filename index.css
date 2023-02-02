@@ -14,6 +14,7 @@ body{
     position: fixed;
     width: 100%;
     text-align: center;
+    position: fixed;
 }
 
 .parrafos{
@@ -43,6 +44,6 @@ body{
 margin-top: 4%;
 }
 i-a{
-    margin-top: 1.5%;
+    margin-top: 2%;
     margin-left: 2%;
 }
