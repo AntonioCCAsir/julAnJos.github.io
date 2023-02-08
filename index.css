@@ -49,7 +49,30 @@ body{
     margin-right: 4%;
 }
 
+.enunciado_2{
+    margin-top: -4%;
+    padding-top:1%;
+    padding-bottom: 1%;
+    text-align: center;
+    border: 1px black solid;
+    background-color: #71cf9b;
+    font-family: "Trebuchet MS";
+    font-size: larger;
+    font-weight:bold;
+}
+
 .enunciado_4{
+    padding-top:1%;
+    padding-bottom: 1%;
+    text-align: center;
+    border: 1px black solid;
+    background-color: #71cf9b;
+    font-family: "Trebuchet MS";
+    font-size: larger;
+    font-weight:bold;
+}
+
+.enunciado_5{
     padding-top:1%;
     padding-bottom: 1%;
     text-align: center;
@@ -84,18 +107,87 @@ body{
     border: 1px black solid;
 }
 
+.texto2-1{
+    margin-left: 3%;
+    margin-top: 1%;
+    text-align: justify;
+    margin-bottom: 2%;
+
+}
+.texto2-2{
+    margin-left: 3%;
+    margin-top: 1%;
+    text-align: justify;
+    margin-bottom: 2%;
+
+}
+
 .Texto_4{
     margin-bottom: 1%;
     text-align: justify;
     margin-bottom: 2%;
     font-size: large;
 }
+.texto5{
+    margin-left: 3%;
+    margin-top: 1%;
+    text-align: justify;
+    margin-bottom: 2%;
+}
 
 .lista{
     margin-bottom: 1%;
 }
 
-i-a{
-    margin-top: 2%;
-    margin-left: 2%;
+.i-a{
+    margin-top: 4%;
+    margin-bottom: 4%;
+    position: relative;
+    display: flex;
+    flex-flow: row;
+    background-size:cover ;
+    width: 40%;
+    max-width: 40%;
+    border: 1px black solid;
+    margin-left: 30%;
+}
+.n{
+    margin-top: -1%;
+    margin-bottom: 1%;
+    position: relative;
+    display: flex;
+    flex-flow: row;
+    background-size:cover ;
+    width: 20%;
+    max-width: 20%;
+    border: 1px black solid;
+    margin-left: 10%;
+}
+   
+
+
+
+.he{
+    margin-top: 1%;
+    margin-bottom: 5%;
+    position: relative;
+    display: flex;
+    flex-flow: row;
+    background-size:cover ;
+    width: 20%;
+    max-width: 20%;
+    border: 1px black solid;
+    margin-left: 60%;
+}
+.e{
+    margin-top: -5%;
+    margin-bottom: 1%;
+    position: relative;
+    display: flex;
+    flex-flow: row;
+    background-size:cover ;
+    width: 20%;
+    max-width: 20%;
+    border: 1px black solid;
+    margin-left: 35%;
 }
