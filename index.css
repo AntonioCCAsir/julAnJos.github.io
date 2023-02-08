@@ -55,27 +55,6 @@ body{
     margin-top: 1%;
 }
 
-.img_1{
-    position: absolute;
-    opacity: 1;
-    z-index: 0;
-    border: 1px black solid;
-}
-
-.img_2{
-    position: absolute;
-    width: 30%;
-    z-index: -1;
-    opacity: 0;
-    border: 1px black solid;
-}
-
-.img_1:hover + .img_2{
-    z-index: 1;
-    cursor: crosshair;
-    opacity: 1;
-}
-
 .Texto_4{
     margin-bottom: 1%;
 }
