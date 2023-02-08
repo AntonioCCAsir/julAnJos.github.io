@@ -44,6 +44,7 @@ body{
 .Parrafos_4{
     margin-top: 1%;
     margin-left: 1%;
+    width: 60%;
 }
 
 .enunciado_4{
@@ -51,12 +52,28 @@ body{
     text-align: center;
 }
 
-.ev_energia{
+.img_1{
     margin-top: 1%;
+    padding-left: 1%;
+    margin-bottom: 5%;
+    width: 60%;
+    position: relative;
+    display: flex;
+    flex-flow: row;
+    background-size:cover ;
+}
+
+.img_2{
+    margin-top: 1%;
+    padding-left: 1%;
+    margin-bottom: 5%;
+    width: 60%;
 }
 
 .Texto_4{
     margin-bottom: 1%;
+    text-align: justify;
+    margin-bottom: 2%;
 }
 
 i-a{
