@@ -28,12 +28,37 @@ body{
     padding-bottom: 0.7%;
 }
 /*index.html*/
-.parrafos{
+.Parrafo_indice{
     padding-right: 1%;
     padding-left: 1%;
-    margin-top: 5%;
+    margin-top: 2%;
     text-align: justify;
 }
+
+.Texto_indice{
+    margin-bottom: 1.5%;
+    font-size: large;
+}
+
+.Paris{
+    text-align: center;
+    font-size: larger;
+}
+
+.Paris:hover{
+    transition: all .4s ease-in-out;
+    transform: scale(1.3);
+}
+
+.Contaminacion{
+    max-width: 45%;
+}
+
+.Contaminacion_centrar{
+    text-align: center;
+    margin-top: 0.8%;
+}
+
 
 /*Pagina2.html*/
 .Parrafos_2{
