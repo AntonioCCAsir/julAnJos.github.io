@@ -59,7 +59,13 @@ body{
     margin-top: 0.8%;
     padding-bottom: 2.5%;
 }
-
+/*Pagina1.html*/
+-Texto_1{
+    margin-bottom: 1%;
+    text-align: justify;
+    margin-bottom: 2%;
+    font-size: large;
+}
 
 /*Pagina2.html*/
 .Parrafos_2{
