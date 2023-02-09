@@ -27,6 +27,11 @@ body{
     padding-top: 0.7%;
     padding-bottom: 0.7%;
 }
+
+.Espacios{
+    margin-right:1%;
+}
+
 /*index.html*/
 .Parrafo_indice{
     padding-right: 1%;
