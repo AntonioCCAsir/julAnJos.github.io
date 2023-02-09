@@ -22,6 +22,7 @@ body{
     border: 1px black solid;
     bottom: 0;
     width: 100%;
+    position: fixed;
     background-color: #95ffc5;
     padding-top: 0.7%;
     padding-bottom: 0.7%;
