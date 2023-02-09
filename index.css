@@ -337,3 +337,9 @@ body{
     border: 1px black solid;
     margin-left: 30%;
 }
+.texto3{
+        margin-left: 3%;
+    margin-top: 1%;
+    text-align: justify;
+    margin-bottom: 2%;
+}
