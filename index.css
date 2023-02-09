@@ -9,6 +9,8 @@ body{
 }
 
 .indice{
+    padding-top:0.5%;
+    padding-bottom:0.5%;
     background-color: #fad48d;
     border: 1px black solid;
     display: inline-block;
